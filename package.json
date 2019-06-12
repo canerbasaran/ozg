@@ -1,0 +1,27 @@
+{
+  "name": "ozg",
+  "description": "event handler by interval for tasks ",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/canerbasaran/ozg.git"
+  },
+  "homepage": "https://github.com/canerbasaran/ozg",
+  "main": "index.js",
+  "engines" : {
+    "node" : ">=10.0.0",
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "modules",
+    "stdlib",
+    "util"
+  ],
+  "author": {
+    "name": "Caner Başaran",
+    "email": "basaran.caner@gmail.com",
+    "url": "http://basarancaner.github.io"
+  },
+  "license": "MIT"
+}
